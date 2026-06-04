@@ -1,0 +1,18 @@
+# 編譯輸出
+/obj/
+/bin/
+*.obj
+*.dll
+*.exe
+*.lib
+*.exp
+*.pdb
+*.ilk
+
+# MSVC / VS
+.vs/
+*.user
+*.suo
+
+# 其他
+*.log
