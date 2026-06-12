@@ -1,3 +1,5 @@
+*[繁體中文版 (Traditional Chinese)](README.zh-TW.md)*
+
 # win-focus-hook
 
 A small educational project demonstrating how a window-focus "keep active" hook
